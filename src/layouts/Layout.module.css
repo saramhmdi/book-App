@@ -1,0 +1,14 @@
+.header,
+.footer {
+  background-color: #303030;
+  border-radius: 10px;
+  text-align: center;
+}
+.header {
+  margin-bottom: 80px;
+  padding: 10px 20px;
+}
+.footer {
+  margin-top: 80px;
+  padding: 20px;
+}
